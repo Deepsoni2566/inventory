@@ -10,9 +10,9 @@ This hybrid DApp combines a user-friendly desktop interface with blockchain-back
 - **Project Title**: Hybrid Inventory Manager (Blockchain + SQL)
 - **Version**: v1.0.0
 - **Author**: Deep Soni
-- **Module**: CN6035 – Blockchain and Distributed Systems
-- **University**: University of East London
-- **Repository**: [https://github.com/Deepsoni2566/inventory](https://github.com/Deepsoni2566/inventory)
+ **University**: University of East London
+- **Repository**: [https://github.com/Deepsoni2566/inventory] 
+                  (https://github.com/Deepsoni2566/inventory)
 
 ---
 
